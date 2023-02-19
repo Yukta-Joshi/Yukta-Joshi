@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yukta Joshi</h1>
 
-<img align="right" alt="gd" width="400" src="https://cdn.dribbble.com/users/612938/screenshots/3245944/character-animation.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
 - 🌱 I’m currently learning **Illustrator**

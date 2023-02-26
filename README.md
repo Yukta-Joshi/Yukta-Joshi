@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukta Joshi</h1>
-<img align="right" alt="GD" width="400" src="C:\Users\shres\Downloads\gd-animation.gif">
+<img src="https://cdn.dribbble.com/users/612938/screenshots/3245944/character-animation.gif" alt="GD" align="right" width="200" height="auto" />
 
 - 🌱 I’m currently learning **illustrator**
 
